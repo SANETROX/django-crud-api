@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "localhost",
+            "database": "\\\\wsl.localhost\\Ubuntu\\home\\sanetroxdev\\django-projects\\django-sample-crud\\db.sqlite3"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
